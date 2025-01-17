@@ -3,7 +3,7 @@ import sys
 import random
 from enum import Enum
 
-
+cool = 7
 class Phase(Enum):
     SETUP = 1
     PLACING_ARMY = 2
